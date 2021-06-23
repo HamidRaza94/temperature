@@ -1,0 +1,1 @@
+{"version":3,"file":"notFoundRoute.js","sourceRoot":"","sources":["../../../src/lib/routes/notFoundRoute.ts"],"names":[],"mappings":";;AAEA,kBAAe,CAAC,GAAY,EAAE,GAAa,EAAE,IAAkB,EAAE,EAAE;IACjE,OAAO,IAAI,CAAC;QACV,KAAK,EAAE,WAAW;QAClB,OAAO,EAAE,iBAAiB;QAC1B,MAAM,EAAE,GAAG;KACZ,CAAC,CAAC;AACL,CAAC,CAAC"}

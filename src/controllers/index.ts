@@ -1,2 +1,1 @@
-export { default as userRoutes } from './user';
-export { default as logRoutes } from './log';
+export { default as temperatureRoutes } from './temperature';

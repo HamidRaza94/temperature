@@ -1,10 +1,9 @@
 import { Router } from 'express';
 
-import { userRoutes, logRoutes } from '../controllers';
+import { temperatureRoutes } from '../controllers';
 
 const router = Router();
 
-router.use('/user', userRoutes);
-router.use('/log', logRoutes);
+router.use('/temperature', temperatureRoutes);
 
 export default router;
